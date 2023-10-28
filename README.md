@@ -1,0 +1,1 @@
+This app is developed withb Ruby on Rails 7 to learn about email, multi tenancy, custom payment and simple SaaS app.
